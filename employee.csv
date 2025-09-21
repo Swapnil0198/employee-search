@@ -1,0 +1,11 @@
+ID,Name,Email,Department,Joining_Date,Salary
+1,Swapnil Patil,swapnil@example.com,Engineering,2023-01-15,75000
+2,Ruchita Patil,ruchita@example.com,Marketing,2022-06-20,65000
+3,Amit Sharma,amit@example.com,Sales,2021-11-05,60000
+4,Sneha Verma,sneha@example.com,HR,2020-09-12,55000
+5,Rajesh Kumar,rajesh@example.com,Finance,2019-03-25,70000
+6,Pooja Desai,pooja@example.com,Engineering,2021-07-18,72000
+7,Arjun Mehta,arjun@example.com,Operations,2020-12-10,58000
+8,Kavita Joshi,kavita@example.com,Marketing,2022-01-05,64000
+9,Manish Gupta,manish@example.com,Engineering,2018-09-14,80000
+10,Neha Kapoor,neha@example.com,HR,2023-02-20,56000

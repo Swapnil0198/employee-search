@@ -1,0 +1,10 @@
+{"id": "1", "structData": {"Name": "Swapnil Patil", "Email": "swapnil@example.com", "Department": "Engineering", "Joining_Date": "2023-01-15", "Salary": 75000}}
+{"id": "2", "structData": {"Name": "Ruchita Patil", "Email": "ruchita@example.com", "Department": "Marketing", "Joining_Date": "2022-06-20", "Salary": 65000}}
+{"id": "3", "structData": {"Name": "Amit Sharma", "Email": "amit@example.com", "Department": "Sales", "Joining_Date": "2021-11-05", "Salary": 60000}}
+{"id": "4", "structData": {"Name": "Sneha Verma", "Email": "sneha@example.com", "Department": "HR", "Joining_Date": "2020-09-12", "Salary": 55000}}
+{"id": "5", "structData": {"Name": "Rajesh Kumar", "Email": "rajesh@example.com", "Department": "Finance", "Joining_Date": "2019-03-25", "Salary": 70000}}
+{"id": "6", "structData": {"Name": "Pooja Desai", "Email": "pooja@example.com", "Department": "Engineering", "Joining_Date": "2021-07-18", "Salary": 72000}}
+{"id": "7", "structData": {"Name": "Arjun Mehta", "Email": "arjun@example.com", "Department": "Operations", "Joining_Date": "2020-12-10", "Salary": 58000}}
+{"id": "8", "structData": {"Name": "Kavita Joshi", "Email": "kavita@example.com", "Department": "Marketing", "Joining_Date": "2022-01-05", "Salary": 64000}}
+{"id": "9", "structData": {"Name": "Manish Gupta", "Email": "manish@example.com", "Department": "Engineering", "Joining_Date": "2018-09-14", "Salary": 80000}}
+{"id": "10", "structData": {"Name": "Neha Kapoor", "Email": "neha@example.com", "Department": "HR", "Joining_Date": "2023-02-20", "Salary": 56000}}
